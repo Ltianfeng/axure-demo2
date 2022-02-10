@@ -19,6 +19,8 @@
   color:#000000;
   text-align:left;
 }
+.connector {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -153,6 +155,15 @@
 }
 .flow_shape1 {
 }
+.shape2 {
+  font-family:'宋体 常规', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .image3 {
 }
 .heading_32 {
@@ -196,4 +207,11 @@
   text-align:left;
 }
 .line1 {
+}
+.image4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
 }
